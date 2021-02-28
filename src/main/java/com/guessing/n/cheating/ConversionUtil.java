@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author rabie puisque les inputs de puzzle sont des chaines de caractéres on
- *         a besoin de cette classe qui permet les convertir en des objets
- *         {@link} Round
+ * @author rabie
+ *  puisque les inputs de puzzle sont des chaines de caractéres on
+ *  a besoin de cette classe qui permet les convertir en des objets {@link} Round
  *
  */
 public final class ConversionUtil {
